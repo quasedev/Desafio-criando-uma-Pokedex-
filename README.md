@@ -1,2 +1,2 @@
-# Desafio-criando-uma-Pokedex-
+# Pokedex DIO
 Pokedex criada usando linguagem HTML, CSS e JavaScript.
